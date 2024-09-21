@@ -23,7 +23,7 @@ body{
 
 .botones a{
     background-color: #2e47d8;
-    padding: 9px;
+    padding: 7px;
     border-radius: 80px;
     -webkit-border-radius: 80px;
     -moz-border-radius: 80px;
@@ -38,7 +38,7 @@ body{
 
 .greetings{
     font-size: 3rem;
-    font-weight: 700;
+    font-weight: 500;
 }
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
